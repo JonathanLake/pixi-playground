@@ -19,6 +19,7 @@
   "homepage": "https://github.com/JonathanLake/pixi-playground#readme",
   "dependencies": {
     "body-parser": "1.17.1",
-    "express": "4.15.2"
+    "express": "4.15.2",
+    "pixi.js": "4.5.1"
   }
 }
