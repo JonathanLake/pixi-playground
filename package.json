@@ -1,0 +1,23 @@
+{
+  "name": "pixi-playground",
+  "version": "1.0.0",
+  "description": "Playing around with Pixi.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanLake/pixi-playground.git"
+  },
+  "author": "Jonathan Lake",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JonathanLake/pixi-playground/issues"
+  },
+  "homepage": "https://github.com/JonathanLake/pixi-playground#readme",
+  "dependencies": {
+    "body-parser": "1.17.1",
+    "express": "4.15.2"
+  }
+}
